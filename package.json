@@ -1,0 +1,24 @@
+{
+  "name": "filer",
+  "version": "0.1.0",
+  "description": "Ultrafast, lightweight browser file manager. Everything is a plugin.",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "start:port": "node server.mjs --port 3000"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "jsdom": "^30.1.3"
+  }
+}

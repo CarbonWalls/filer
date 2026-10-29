@@ -1,0 +1,11 @@
+{
+  "id": "fancy-sort",
+  "name": "Fancy Extras",
+  "version": "0.1.0",
+  "description": "Demo plugin: sizes sorts listings by size (overrides fs.list) and adds a Titlecase command. Disabled by default — enable it in the Plugins panel to see it take effect live.",
+  "author": "Filer Team",
+  "priority": 10,
+  "demo": true,
+  "source": "examples",
+  "main": "index.mjs"
+}

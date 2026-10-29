@@ -1,0 +1,14 @@
+{
+  "plugins": {
+    "fancy-sort": {
+      "enabled": false,
+      "priority": 10
+    },
+    "core-fs": {
+      "priority": 0
+    },
+    "core-views": {
+      "priority": 1
+    }
+  }
+}

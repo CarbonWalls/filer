@@ -1,0 +1,10 @@
+{
+  "id": "core-views",
+  "name": "Core Views",
+  "version": "1.0.0",
+  "description": "Previews for images, audio, video, PDF, markdown, text, and binary files.",
+  "author": "Filer Core",
+  "priority": 0,
+  "source": "core",
+  "main": "index.mjs"
+}

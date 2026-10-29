@@ -1,0 +1,10 @@
+{
+  "id": "core-fs",
+  "name": "Core Filesystem",
+  "version": "1.0.0",
+  "description": "Directory listing, stat, read/write, rename, and delete operations.",
+  "author": "Filer Core",
+  "priority": 0,
+  "source": "core",
+  "main": "index.mjs"
+}
